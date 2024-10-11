@@ -6,8 +6,6 @@ The site has some style rules to begin with. You will improve the layout and pos
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
 Tasks
-0/10 complete
-Mark the tasks as complete by checking them off
 
 The <header> currently scrolls with the rest of the document.
 
